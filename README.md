@@ -1,6 +1,7 @@
 # dotfiles
 
 > my dot files managed by chezmoi.
+> (cant figure out why it does private_dot so just change it after applying it to your system.)
 
 | Component             | Version/Name                                 |
 |-----------------------|----------------------------------------------|
