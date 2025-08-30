@@ -14,6 +14,7 @@
 | Theme                 | Dracula                                      |
 | Font                  | JetBrains Mono + Nerd Font Patch             |
 | Player                | Spicetify + Spotify                          |
+| Messenger             | Legcord + Equicord                           |
 | File Browser          | Dolphin + Dolphin Plugins                    |
 | Internet Browser      | Firefox with BetterFox                       |
 | Mimetypes             | MPV, qview                                   |
