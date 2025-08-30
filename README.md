@@ -7,7 +7,7 @@
 | Distro                | Arch                                         |
 | Shell                 | Zsh                                          |
 | Display Server        | Wayland                                      |
-| WM (Compositor)       | KDE Plasma 5                                 |
+| Desktop Environment   | KDE Plasma 5                                 |
 | Editor                | Nano + VSCode                                |
 | Terminal              | Kitty + Oh My Zsh                            |
 | Fetch Utility         | fastfetch                                    |
